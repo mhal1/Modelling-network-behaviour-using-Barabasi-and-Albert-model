@@ -19,3 +19,5 @@ Ensure model of network is functioning as expected:
 # Distributions with varying connectivity
 
 ![alt text](https://github.com/mhal1/Modelling-network-behaviour-using-Barabasi-and-Albert-model/blob/mhal1-patch-1/m.png?raw=true)
+
+For more detail and information see 'Networks_analysis.pdf'.
